@@ -122,3 +122,13 @@ VCs, family offices, angel investors need to evaluate Solana wallet counterparti
 - Colosseum Copilot API: https://copilot.colosseum.com/api/v1
 - Archive corpus: a16z_crypto, arxiv_crypto, meteora_docs, colosseum_blog
 - Hackathons covered: Cypherpunk, Breakout, Radar, Renaissance
+
+---
+
+## Deep Dive: Key Primitives & Competitor (May 23, 2026)
+
+**DFlow Proof** — Identity primitive for compliance-aware onchain markets via Solana Attestation Service. Embedded in DFlow's DEX stack, not standalone. No hackathon winner has consumer-productized it yet — open opportunity.
+
+**Range Risk Oracle** — Real-time wallet risk scoring oracle. Used by CompliFi (Cypherpunk, non-winner). Niche, B2B-only, no community layer.
+
+**Concierge Solana Bot** — Closest Telegram competitor (Radar 2024, no prize). Monitors prices, LPs, swaps, wallet activity, NFTs. Pure monitoring — zero risk intelligence or fraud scoring. Gap is wide open.
